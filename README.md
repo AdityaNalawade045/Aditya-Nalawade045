@@ -1,3 +1,4 @@
+![logo](https://github.com/AdityaNalawade045/Aditya-Nalawade045/blob/main/Brown%20%26%20Black%20Geometric%20Personal%20Branding%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Aditya Nalawade</h1>
 <h3 align="center">Software development Student | Passionate About Programing</h3>
 <img align="right" alt="coding" width="400" src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif">
